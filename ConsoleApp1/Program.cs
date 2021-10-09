@@ -8,9 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello from git");
-            Console.WriteLine("Hello ");
-
-
+            
         }
     }
 }
